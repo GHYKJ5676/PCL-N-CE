@@ -24,7 +24,7 @@
 
 </div>
 
-PCL N CE Edition 是基于 PCL-CE 开源代码，由 MUXUE1230 独立开发和维护的版本！
+PCL N CE Edition 是基于 PCL N 开源代码，由 GHYKJ 独立开发和维护的版本！
 
 PCL N CE Edition 的版本号与主线并非严格对应关系，也请不要向官方仓库反馈 PCL N CE Edition 问题。
 
